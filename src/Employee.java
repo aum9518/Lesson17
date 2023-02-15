@@ -4,9 +4,9 @@ public class Employee extends  Person{
     public void work() {
 
         if (id == 1 ){
-            System.out.println("Jumushchu ishteyt");
+            System.out.println("Jumushchu ishteyt ");
         } else {
-            System.out.println("Jumushchu ishtebeyt");
+            System.out.println("Jumushchu ishtebeyt ");
         }
     }
 

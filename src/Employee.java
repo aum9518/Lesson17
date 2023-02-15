@@ -3,10 +3,10 @@ public class Employee extends  Person{
     @Override
     public void work() {
 
-        if (id == 0 ){
+        if (id == 1 ){
+            System.out.println("Jumushchu ishteyt");
+        } else {
             System.out.println("Jumushchu ishtebeyt");
-        } else if (id == 1) {
-            System.out.println("Jumushchu ishteit");
         }
     }
 
